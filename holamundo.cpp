@@ -13,7 +13,6 @@ int main() {
     for (size_t e = 0; e < 5; e++) {
         cout << "Hola" << endl;
     }
-    return 0;
-
     cout << "PostData: Usar Git es confuso\n";
+    return 0;
 }
