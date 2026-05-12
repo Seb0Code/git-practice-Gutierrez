@@ -15,5 +15,6 @@ int main() {
     }
     cout << "PostData: Usar Git es confuso\n";
     cout << "Ahora estoy codeando desde GitHub" << endl;
+    cout << "Hoy es el segundo dia codeando con git\n";
     return 0;
 }
